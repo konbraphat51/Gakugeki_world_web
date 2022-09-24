@@ -1,0 +1,36 @@
+{
+  "project_info": {
+    "project_number": "798166539037",
+    "project_id": "gakugeki-rooms",
+    "storage_bucket": "gakugeki-rooms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798166539037:ios:403bc11982970ec6b05ff4",
+        "android_client_info": {
+          "package_name": "com.GakugekiInfinite.OnlineCampus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798166539037-m79vrqre0hbre4d5i0217fm2p4a5t1kp.apps.googleusercontent.com"
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8Og38TziPcvrbzBeymvQDKGPhxV5XJUU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
